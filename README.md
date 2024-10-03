@@ -17,3 +17,5 @@ Finnaly restart your discord and enable the plugin
 To use the plugin when you hover a video with the mouse a loop icon will apear and clicking on it will turn it green and enable the looping of the video
 
 Credit to Lumap for the PIP pugin wich I based mine on :https://github.com/Vendicated/Vencord/blob/main/src/plugins/pictureInPicture
+
+If I have the time I will look if I can try to have it added directly to Vencord
