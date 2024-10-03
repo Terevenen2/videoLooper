@@ -1,7 +1,7 @@
 # videoLooper
 videoLooper is a Vencord plugin that allow to loop discord videos
 
-How to use
+How to use :
 
 To use this plugin you have to install Vencord from source
 You can follow this guide : https://docs.vencord.dev/installing/
