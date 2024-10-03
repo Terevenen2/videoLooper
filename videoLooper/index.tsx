@@ -16,7 +16,7 @@ const settings = definePluginSettings({
 export default definePlugin({
     name: "VideoLooper",
     description: "Adds a button to enable/disable looping of videos (next to the Download button)",
-    authors: [Devs.Lumap],
+    authors: [Devs.Terevenen2],
     settings,
     patches: [
         {
